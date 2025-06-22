@@ -1,0 +1,22 @@
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos compilados
+__pycache__/
+*.pyc
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos sensíveis
+.env
+*.env
+config.py
+secrets.py
+
+# Outros
+*.log
+.DS_Store
